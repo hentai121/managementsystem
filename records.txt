@@ -1,0 +1,11 @@
+112:02-99893878:Sarah:Brown:B:12:Electrician:09-02-1992
+131:02-95673456:David:Couch:A:26:Consultant:23-04-1994
+236:02-95437869:Sarah:Anderson:K:19:CEO:21-09-1988
+553:03-99999999:David:Coles:M:12:Manager:12-12-1999
+869:02-95671660:Sarah:Jones:B:45:Sales Manager:14-12-1995
+148:02-93272658:John:Smith:C:43:Technical Manager:21-10-1988
+372:02-12345678:Sam:Miller:B:22:Engineer:12-03-1998
+059:02-95673455:Xiao:Chen:Y:26:Consultant:01-05-2003
+812:02-98781987:Fei:Xue:L:35:Computer Officer:10-08-1998
+619:02-95436669:Mengjie:Wang:X:26:Consultant:12-02-2001
+111:02-11223344:U:uerax:null:21:Fatty:null
