@@ -270,7 +270,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
 			String initRegex = "[a-zA-Z\\s+]*";
 			
 			if (str.matches(initRegex)) {
-				employee.setLastName(str);
+				employee.setInitial(str);;
 				break;
 			}
 			else {
@@ -352,6 +352,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
 					sdf.setLenient(false);
 					//将str转换为相同format的日期格式, 如果不符合则抛出异常
 					sdf.parse(str);
+					employee.setDateOfHiring(str);
 					break;
 				} catch (ParseException e) {
 					System.out.println("Invalid Date Hired");
